@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "478517501897",
+    "project_id": "park-ave-nails",
+    "storage_bucket": "park-ave-nails.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:478517501897:android:a7cf34075c7c7ec6fb5218",
+        "android_client_info": {
+          "package_name": "com.parkavenails"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "478517501897-vhjugp7kjbfbqni1vad1ho1qf001ensl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB99StXyqknRXzQkHUsBq5OU9EXCuTaz2A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "478517501897-vhjugp7kjbfbqni1vad1ho1qf001ensl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

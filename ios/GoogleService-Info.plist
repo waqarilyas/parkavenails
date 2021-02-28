@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>478517501897-8lfua1l6qhk8p746n8r838vhj1vuaub2.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.478517501897-8lfua1l6qhk8p746n8r838vhj1vuaub2</string>
+	<key>API_KEY</key>
+	<string>AIzaSyD2fUQoJ1ZfZFCGeE8XQZHOaN1kyhi_K-8</string>
+	<key>GCM_SENDER_ID</key>
+	<string>478517501897</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>org.reactjs.native.example.parkavenails</string>
+	<key>PROJECT_ID</key>
+	<string>park-ave-nails</string>
+	<key>STORAGE_BUCKET</key>
+	<string>park-ave-nails.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:478517501897:ios:c2ccf38aeee7b794fb5218</string>
+</dict>
+</plist>
